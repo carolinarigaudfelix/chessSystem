@@ -1,4 +1,4 @@
-package chessSystem.entities;
+package chessSystem.boardgame;
 
 public class Position {
 	private int row;
